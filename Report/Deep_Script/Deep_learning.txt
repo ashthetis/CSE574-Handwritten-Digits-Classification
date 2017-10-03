@@ -1,0 +1,33 @@
+springsteen {~} > python deepnnScript.py
+22:49:14
+Optimization Finished!
+Accuracy: 0.78539
+22:55:16
+361.96
+
+
+
+springsteen {~} > python deepnnScript3.py
+22:59:08
+Optimization Finished!
+Accuracy: 0.772521
+23:03:55
+287.06
+
+
+
+springsteen {~} > python deepnnScript5.py
+23:05:21
+Optimization Finished!
+Accuracy: 0.757759
+23:11:01
+340.21
+
+
+
+springsteen {~} > python deepnnScript7.py
+23:12:31
+Optimization Finished!
+Accuracy: 0.749054
+23:18:26
+354.57

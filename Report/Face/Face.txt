@@ -1,0 +1,11 @@
+17:03:56
+
+
+Training set Accuracy:88.6682464455%
+
+Validation set Accuracy:87.8424015009%
+
+Test set Accuracy:88.1907645723%
+
+17:10:08
+372.58
